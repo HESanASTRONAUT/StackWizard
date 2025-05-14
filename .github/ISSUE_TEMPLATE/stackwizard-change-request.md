@@ -1,10 +1,10 @@
 ---
 name: StackWizard Change Request
 about: Submit a change request to stackwizard.com
-title: 'StackWizard Change Request - '
-labels: ''
-assignees: HESanASTRONAUT
-
+title: 'StackWizard Change Request – '
+labels: []
+assignees:
+  - HESanASTRONAUT
 ---
 
 <!--
